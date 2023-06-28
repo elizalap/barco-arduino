@@ -1,4 +1,8 @@
 # Barco Arduino
+
+![Static Badge](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+
+
 Projeto desenvolvido para a competição organizada pela faculdade no curso de Sistemas de Informação (6º período).  
 O código tem como objetivo controlar dois motores DC ligados a uma placa Arduino Uno através de um Motor Shield, além da conexão com um módulo bluetooth para mandar os comandos remotamente.
 
