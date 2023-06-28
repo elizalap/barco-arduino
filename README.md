@@ -14,8 +14,7 @@ O código tem como objetivo controlar dois motores DC ligados a uma placa Arduin
 * Módulo Bluetooth HC6
 
 ## 👩‍💻 Tecnologias utilizadas:  
-<img width="40" style="padding-right: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 
 
 
